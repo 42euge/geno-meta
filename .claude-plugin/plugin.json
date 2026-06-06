@@ -1,0 +1,8 @@
+{
+  "name": "geno-meta",
+  "description": "Meta-skills for the geno ecosystem — create, test, measure, and refine agent skills. Use when creating a skill from scratch, editing or optimizing existing skills, running evals, benchmarking performance, or optimizing skill descriptions for triggering accuracy.",
+  "author": {
+    "name": "42euge",
+    "email": "42euge@gmail.com"
+  }
+}
